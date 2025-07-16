@@ -2,7 +2,7 @@ streamlit
 pandas
 scikit-learn
 joblib
-matplotlib
 plotly.express
+matplotlib
 matplotlib.pyplot
 seaborn
