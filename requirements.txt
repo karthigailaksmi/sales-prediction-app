@@ -3,6 +3,7 @@ pandas
 scikit-learn
 joblib
 matplotlib
+plotly
 plotly.express
 matplotlib.pyplot
 seaborn
