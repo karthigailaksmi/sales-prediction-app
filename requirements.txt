@@ -4,4 +4,5 @@ scikit-learn
 joblib
 matplotlib
 plotly.express
+matplotlib.pyplot
 seaborn
